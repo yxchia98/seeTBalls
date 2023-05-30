@@ -1,0 +1,6 @@
+train: /data/tennis-ball/train/Tennis-ball/images/
+test: /data/tennis-ball/test/Tennis-ball/images/
+val: /data/tennis-ball/validation/Tennis-ball/images/
+
+nc: 1
+names: ['Tennis Ball']
