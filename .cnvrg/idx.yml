@@ -1,4 +1,9 @@
 ---
 :tree:
+  output/.ipynb_checkpoints/: 
   output/: 
-:commit: 05a8ea5382b9fd885261bb3eed0527d1d3b07262
+  output/best.pt:
+    :sha1: c0a6d4033518839bba38e44a62da485edda3520c
+    :commit_time: 
+    :last_modified: 1686035066.6644754
+:commit: f47aea8bdcbd1179a1f3d91e6afeeb259488f2d1
